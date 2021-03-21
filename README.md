@@ -3,8 +3,7 @@
 🌱 I’m currently learning Python, Machine Learning, Bootstrap, and Data Science. 
 💞️ I’m looking for a new career in programming and engineering. 
 - theLouieShi@gmail.com
-- For more of my projects, fun games and useful applicatons, 
-- please visit: https://github.com/thlouieshi?tab=repositories
+- For more of my projects, fun games and useful applicatons, please visit: https://github.com/thlouieshi?tab=repositories
 
 <!---
 thlouieshi/thlouieshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
