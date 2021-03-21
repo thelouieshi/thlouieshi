@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louie Shi @theLouieShi
-- 👀 I’m interested in using technologies to make supply chain, finance, and hospitality safer and more efficient. 
-- 🌱 I’m currently learning Python, Machine Learning, and Data Science. 
+- 👀 I’m interested in using technologies to make supply chain and hospitality better and more efficient. 
+- 🌱 I’m currently learning Python, Machine Learning, Bootstrap, and Data Science. 
 - 💞️ I’m looking for a new career in programming and engineering. 
 - 📫 theLouieShi@gmail.com
 
