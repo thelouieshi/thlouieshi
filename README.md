@@ -1,4 +1,4 @@
-hi👋 it's Haonan "Louie" Shi.  
+hi👋  I am Haonan "Louie" Shi.  
 
 Two-time founder in consumer goods and fiannce - successfilly exited.  
 💞️ I’m interested in using technologies to make supply chain and hospitality better and more efficient.  
