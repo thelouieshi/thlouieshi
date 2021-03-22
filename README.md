@@ -1,4 +1,9 @@
-👋 Hi, I’m Haonan Louie Shi @theLouieShi
+hi👋, it's Haonan "Louie" Shi
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 👀 I’m interested in using technologies to make supply chain and hospitality better and more efficient. 
 🌱 I’m currently learning Python, Machine Learning, Bootstrap, and Data Science. 
 💞️ I’m looking for a new career in programming and engineering. 
